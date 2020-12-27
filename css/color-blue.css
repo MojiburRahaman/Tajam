@@ -1,0 +1,45 @@
+/*
+
+ Blue: #4650dc;
+ 
+*/
+
+/*
+h1,
+a {
+    color: #4650dc !important;
+}
+*/
+
+.Button,
+.Form__control {
+    border-color: #4650dc !important;
+}
+
+/*
+.Button {
+    color: #4650dc !important;
+}
+*/
+
+.Button:focus,
+.Button:hover {
+    background: #4650dc !important;
+    color: #fff !important;
+}
+
+.Form__control:focus {
+    border-color: #ddd !important;
+}
+
+
+/*
+.section_color_change {
+    background: #4650dc !important;
+}
+*/
+
+.menu_fix {
+    background: #4650dc !important;
+
+}

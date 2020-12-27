@@ -1,0 +1,39 @@
+/*
+ Red: #ff1d23;
+ */
+/*
+
+h1,
+a {
+    color: #ff1d23 !important;
+}
+*/
+
+.Button,
+.Form__control {
+    border-color: #ff1d23 !important;
+}
+
+.Button {
+    color: #ff1d23 !important;
+}
+
+.Button:focus,
+.Button:hover {
+    background: #ff1d23 !important;
+    color: #fff !important;
+}
+
+.Form__control:focus {
+    border-color: #ddd !important;
+}
+/*
+.section_color_change {
+    background: #ff1d23 !important;
+}
+*/
+
+.menu_fix {
+    background: #ff1d23 !important;
+
+}
